@@ -1,2 +1,2 @@
 # Smart-Thermostat
-A portable thermostat that detects best temperature settings
+ESP8266 Weather analytics to configure thermostat and display on OLED.
